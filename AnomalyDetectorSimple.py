@@ -1,4 +1,5 @@
 #%%
+#The only model that I could somewhat get to work was mod2 in this file since my laptop was not nearly powerful enough to handle the proper architecture of the model
 
 import tensorflow as tf
 import numpy as np
