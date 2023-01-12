@@ -1,4 +1,5 @@
 #%%
+#This version was the final version that I was able to create using a computer much more powerful than my laptop once I got access to it
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, UpSampling2D
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
